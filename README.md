@@ -1,5 +1,5 @@
 # cursodamarys
 
-Buenas este es el curso de github 
+Buenas este es el curso de github.
 
 saludos
